@@ -1,0 +1,39 @@
+﻿name: Publish Dev Pre-Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  prerelease:
+    name: Create GitHub Pre-Release
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout tagged build
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Publish pre-release with notes
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.ref_name }}
+        run: |
+          set -euo pipefail
+          TITLE="Syntax Dev ${TAG#v}"
+          if [[ -f RELEASE_NOTES.md && -s RELEASE_NOTES.md ]]; then
+            NOTES_ARGS=(--notes-file RELEASE_NOTES.md)
+          else
+            NOTES_ARGS=(--generate-notes)
+          fi
+
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release edit "$TAG" --title "$TITLE" --prerelease "${NOTES_ARGS[@]}"
+          else
+            gh release create "$TAG" --target "$TAG" --title "$TITLE" --prerelease "${NOTES_ARGS[@]}"
+          fi
