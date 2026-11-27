@@ -1,0 +1,1 @@
+{"status":"failed-before-completion","scope":"asset extraction only","error":"Unresolved var(--panda-colors-gray-300) in the captured practice SVG","correction":"Resolve to #ccc from the pinned stylesheet; preserve the SVG paths","productVerdict":"not-evaluated"}

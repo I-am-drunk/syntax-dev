@@ -1,0 +1,1286 @@
+{
+  "version": 2,
+  "voice": "en-US-AndrewNeural",
+  "fps": 60,
+  "duration": 14.9333,
+  "aspectRatio": 1.7778,
+  "keyframes": [
+    {
+      "t": 0.0,
+      "x": 0.5697,
+      "y": 0.1783,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.05,
+      "x": 0.5697,
+      "y": 0.1783,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.1,
+      "x": 0.5697,
+      "y": 0.1783,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.1667,
+      "x": 0.5697,
+      "y": 0.1784,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.2167,
+      "x": 0.5697,
+      "y": 0.1785,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.2833,
+      "x": 0.5697,
+      "y": 0.1786,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.35,
+      "x": 0.5697,
+      "y": 0.1789,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.4,
+      "x": 0.5697,
+      "y": 0.1792,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.4667,
+      "x": 0.5697,
+      "y": 0.1797,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.5167,
+      "x": 0.5697,
+      "y": 0.1802,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.5833,
+      "x": 0.5697,
+      "y": 0.181,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.65,
+      "x": 0.5697,
+      "y": 0.182,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.7167,
+      "x": 0.5697,
+      "y": 0.1832,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.7667,
+      "x": 0.5697,
+      "y": 0.1843,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.8333,
+      "x": 0.5697,
+      "y": 0.186,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.9,
+      "x": 0.5697,
+      "y": 0.188,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.9667,
+      "x": 0.5697,
+      "y": 0.1903,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.0333,
+      "x": 0.5697,
+      "y": 0.1929,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.1,
+      "x": 0.5697,
+      "y": 0.1959,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.1667,
+      "x": 0.5697,
+      "y": 0.1993,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.2333,
+      "x": 0.5697,
+      "y": 0.2031,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.2833,
+      "x": 0.5697,
+      "y": 0.2063,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.35,
+      "x": 0.5697,
+      "y": 0.2109,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.4167,
+      "x": 0.5697,
+      "y": 0.2159,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.4833,
+      "x": 0.5697,
+      "y": 0.2215,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.5333,
+      "x": 0.5697,
+      "y": 0.226,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.6,
+      "x": 0.5697,
+      "y": 0.2325,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.6667,
+      "x": 0.5697,
+      "y": 0.2395,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.7333,
+      "x": 0.5697,
+      "y": 0.2472,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.7833,
+      "x": 0.5697,
+      "y": 0.2533,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.85,
+      "x": 0.5697,
+      "y": 0.262,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.9167,
+      "x": 0.5697,
+      "y": 0.2714,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.9833,
+      "x": 0.5697,
+      "y": 0.2815,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.0333,
+      "x": 0.5697,
+      "y": 0.2895,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.1,
+      "x": 0.5697,
+      "y": 0.3007,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.1667,
+      "x": 0.5697,
+      "y": 0.3128,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.2333,
+      "x": 0.5697,
+      "y": 0.3256,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.2833,
+      "x": 0.5697,
+      "y": 0.3357,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.35,
+      "x": 0.5697,
+      "y": 0.3497,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.4167,
+      "x": 0.5697,
+      "y": 0.363,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.4833,
+      "x": 0.5697,
+      "y": 0.3756,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.5333,
+      "x": 0.5697,
+      "y": 0.3845,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.6,
+      "x": 0.5697,
+      "y": 0.3958,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.6667,
+      "x": 0.5697,
+      "y": 0.4063,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.7333,
+      "x": 0.5697,
+      "y": 0.4162,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.7833,
+      "x": 0.5697,
+      "y": 0.4232,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.85,
+      "x": 0.5697,
+      "y": 0.4319,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.9167,
+      "x": 0.5697,
+      "y": 0.4399,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.9833,
+      "x": 0.5697,
+      "y": 0.4474,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.0333,
+      "x": 0.5697,
+      "y": 0.4526,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.1,
+      "x": 0.5697,
+      "y": 0.4591,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.1667,
+      "x": 0.5697,
+      "y": 0.465,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.2333,
+      "x": 0.5697,
+      "y": 0.4704,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.2833,
+      "x": 0.5697,
+      "y": 0.4742,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.35,
+      "x": 0.5697,
+      "y": 0.4787,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.4167,
+      "x": 0.5697,
+      "y": 0.4829,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.4833,
+      "x": 0.5697,
+      "y": 0.4865,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.5333,
+      "x": 0.5697,
+      "y": 0.489,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.6,
+      "x": 0.5697,
+      "y": 0.492,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.6667,
+      "x": 0.5697,
+      "y": 0.4947,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.7333,
+      "x": 0.5697,
+      "y": 0.497,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.7833,
+      "x": 0.5697,
+      "y": 0.4985,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.85,
+      "x": 0.5697,
+      "y": 0.5002,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.9167,
+      "x": 0.5697,
+      "y": 0.5017,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.9833,
+      "x": 0.5697,
+      "y": 0.5029,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 4.05,
+      "x": 0.5697,
+      "y": 0.5039,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 4.1167,
+      "x": 0.5697,
+      "y": 0.5047,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 4.1833,
+      "x": 0.5697,
+      "y": 0.5053,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 4.25,
+      "x": 0.5697,
+      "y": 0.5058,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 4.3167,
+      "x": 0.5697,
+      "y": 0.5061,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 4.3833,
+      "x": 0.5697,
+      "y": 0.5063,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 4.45,
+      "x": 0.5697,
+      "y": 0.5064,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 4.5167,
+      "x": 0.5697,
+      "y": 0.5065,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 4.5833,
+      "x": 0.5697,
+      "y": 0.5065,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 4.6333,
+      "x": 0.5697,
+      "y": 0.5065,
+      "lookX": -0.423,
+      "lookY": 0.252,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 4.6333,
+      "x": 0.6629,
+      "y": 0.2104,
+      "lookX": 0.228,
+      "lookY": 0.541,
+      "state": "celebrate",
+      "expression": "proud",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 7.5667,
+      "x": 0.2278,
+      "y": 0.86,
+      "lookX": 0.534,
+      "lookY": -0.738,
+      "state": "nodding",
+      "expression": "happy",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 11.3667,
+      "x": 0.8938,
+      "y": 0.86,
+      "lookX": -0.798,
+      "lookY": -0.143,
+      "state": "celebrate",
+      "expression": "proud",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 14.9333,
+      "x": 0.8938,
+      "y": 0.86,
+      "lookX": -0.798,
+      "lookY": -0.143,
+      "state": "celebrate",
+      "expression": "proud",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    }
+  ],
+  "prompts": [
+    {
+      "start": 0.0,
+      "end": 4.6333,
+      "callout": "Sliding b down...",
+      "say": "Watch the y-intercept bead glide smoothly down the y-axis.",
+      "subtitle": "Slide vertically until the line reaches P(6, 1).",
+      "mode": "callout",
+      "accent": "teal",
+      "side": "auto"
+    },
+    {
+      "start": 4.6333,
+      "end": 7.5667,
+      "callout": "Locked on P(6, 1)!",
+      "say": "Direct hit on P(6, 1)!",
+      "subtitle": "The perpendicular line locks right onto P(6, 1).",
+      "mode": "callout",
+      "accent": "green",
+      "side": "auto"
+    },
+    {
+      "start": 7.5667,
+      "end": 11.3667,
+      "callout": "b = −1!",
+      "say": "Look at the y-axis: it crosses right at (0, −1).",
+      "subtitle": "It crosses the y-axis at b = −1.",
+      "mode": "callout",
+      "accent": "green",
+      "side": "auto"
+    },
+    {
+      "start": 11.3667,
+      "end": 14.9333,
+      "callout": "y = 1/3 x − 1",
+      "say": "Final perpendicular equation: y = 1/3 x − 1!",
+      "subtitle": "Our perpendicular line is y = 1/3 x − 1.",
+      "mode": "callout",
+      "accent": "green",
+      "side": "auto"
+    }
+  ],
+  "words": [
+    {
+      "text": "Now",
+      "start": 0.0953,
+      "end": 0.25
+    },
+    {
+      "text": "keep",
+      "start": 0.2619,
+      "end": 0.4881
+    },
+    {
+      "text": "that",
+      "start": 0.5,
+      "end": 0.6667
+    },
+    {
+      "text": "slope",
+      "start": 0.6786,
+      "end": 1.0238
+    },
+    {
+      "text": "locked",
+      "start": 1.0357,
+      "end": 1.369
+    },
+    {
+      "text": "at",
+      "start": 1.381,
+      "end": 1.4643
+    },
+    {
+      "text": "one",
+      "start": 1.4762,
+      "end": 1.7024
+    },
+    {
+      "text": "third",
+      "start": 1.7143,
+      "end": 2.1547
+    },
+    {
+      "text": "and",
+      "start": 2.4643,
+      "end": 2.5476
+    },
+    {
+      "text": "slide",
+      "start": 2.5595,
+      "end": 2.9167
+    },
+    {
+      "text": "the",
+      "start": 2.9286,
+      "end": 3.0
+    },
+    {
+      "text": "line",
+      "start": 3.0119,
+      "end": 3.2381
+    },
+    {
+      "text": "vertically",
+      "start": 3.25,
+      "end": 3.7619
+    },
+    {
+      "text": "like",
+      "start": 3.7738,
+      "end": 3.9642
+    },
+    {
+      "text": "an",
+      "start": 3.9762,
+      "end": 4.0833
+    },
+    {
+      "text": "elevator",
+      "start": 4.0953,
+      "end": 4.631
+    },
+    {
+      "text": "until",
+      "start": 4.7024,
+      "end": 4.9524
+    },
+    {
+      "text": "it",
+      "start": 4.9643,
+      "end": 5.0476
+    },
+    {
+      "text": "locks",
+      "start": 5.0595,
+      "end": 5.3929
+    },
+    {
+      "text": "right",
+      "start": 5.4047,
+      "end": 5.6428
+    },
+    {
+      "text": "onto",
+      "start": 5.6547,
+      "end": 5.8452
+    },
+    {
+      "text": "point",
+      "start": 5.8571,
+      "end": 6.1785
+    },
+    {
+      "text": "P",
+      "start": 6.1905,
+      "end": 6.4047
+    },
+    {
+      "text": "at",
+      "start": 6.4167,
+      "end": 6.5
+    },
+    {
+      "text": "six",
+      "start": 6.5119,
+      "end": 7.0476
+    },
+    {
+      "text": "one",
+      "start": 7.25,
+      "end": 7.5595
+    },
+    {
+      "text": "Right",
+      "start": 7.9524,
+      "end": 8.119
+    },
+    {
+      "text": "when",
+      "start": 8.131,
+      "end": 8.2262
+    },
+    {
+      "text": "it",
+      "start": 8.2381,
+      "end": 8.3214
+    },
+    {
+      "text": "locks",
+      "start": 8.3333,
+      "end": 8.7857
+    },
+    {
+      "text": "it",
+      "start": 8.9881,
+      "end": 9.0595
+    },
+    {
+      "text": "crosses",
+      "start": 9.0714,
+      "end": 9.4881
+    },
+    {
+      "text": "the",
+      "start": 9.5,
+      "end": 9.5833
+    },
+    {
+      "text": "y",
+      "start": 9.5953,
+      "end": 9.8572
+    },
+    {
+      "text": "axis",
+      "start": 9.869,
+      "end": 10.381
+    },
+    {
+      "text": "at",
+      "start": 10.4524,
+      "end": 10.631
+    },
+    {
+      "text": "negative",
+      "start": 10.6429,
+      "end": 11.0715
+    },
+    {
+      "text": "one",
+      "start": 11.0833,
+      "end": 11.3571
+    },
+    {
+      "text": "giving",
+      "start": 11.6547,
+      "end": 11.9047
+    },
+    {
+      "text": "y",
+      "start": 11.9167,
+      "end": 12.1667
+    },
+    {
+      "text": "equals",
+      "start": 12.1786,
+      "end": 12.5952
+    },
+    {
+      "text": "one",
+      "start": 12.6071,
+      "end": 12.9285
+    },
+    {
+      "text": "third",
+      "start": 12.9405,
+      "end": 13.2976
+    },
+    {
+      "text": "x",
+      "start": 13.4047,
+      "end": 13.631
+    },
+    {
+      "text": "minus",
+      "start": 13.6429,
+      "end": 13.9762
+    },
+    {
+      "text": "one",
+      "start": 13.9881,
+      "end": 14.2738
+    }
+  ],
+  "qa": {
+    "maxStaticGapSec": 0.637,
+    "overlapNudges": 2,
+    "cueCount": 4,
+    "keyframeCount": 80,
+    "promptCount": 5,
+    "wordCount": 46
+  },
+  "verification": [
+    {
+      "name": "isotropic:vis3",
+      "passed": true,
+      "detail": "sx=0.7722, sy=0.7722 (diff=0.000000)"
+    },
+    {
+      "name": "perpendicular:vis3_90deg",
+      "passed": true,
+      "detail": "screen_angle=90.000° (error=0.000°, tol=0.5°)"
+    },
+    {
+      "name": "line_slope:vis3_locked",
+      "passed": true,
+      "detail": "actual=0.3333, expected=0.3333 (err=0.0000, tol=0.02)"
+    },
+    {
+      "name": "point_on_line:vis3_locked@(6, 1)",
+      "passed": true,
+      "detail": "distance=0.00000 world units (tol=0.04)"
+    },
+    {
+      "name": "point_on_line:vis3_locked@(0, -1)",
+      "passed": true,
+      "detail": "distance=0.00000 world units (tol=0.04)"
+    },
+    {
+      "name": "in_frame:eq_badge",
+      "passed": true,
+      "detail": "bbox=(0.31..2.78, -2.79..-2.16) vs safe=(-6.99..6.99, -3.90..3.90)"
+    },
+    {
+      "name": "motion_density",
+      "passed": true,
+      "detail": "maxStaticGapSec=0.637s (limit=1.8s)"
+    },
+    {
+      "name": "voice_word_sync",
+      "passed": true,
+      "detail": "voice=en-US-AndrewNeural, words=46"
+    },
+    {
+      "name": "sema_choreography",
+      "passed": true,
+      "detail": "keyframes=80, prompts=5"
+    }
+  ]
+}

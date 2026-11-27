@@ -1,0 +1,284 @@
+{
+  "version": 2,
+  "voice": "en-US-AndrewNeural",
+  "fps": 60,
+  "duration": 13.95,
+  "aspectRatio": 1.7778,
+  "keyframes": [
+    {
+      "t": 0.0,
+      "x": 0.2394,
+      "y": 0.2008,
+      "lookX": 0.35,
+      "lookY": 0.838,
+      "state": "speaking",
+      "expression": "attentive",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 4.3,
+      "x": 0.5597,
+      "y": 0.3649,
+      "lookX": -0.395,
+      "lookY": 0.378,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 9.0167,
+      "x": 0.2202,
+      "y": 0.6273,
+      "lookX": 0.084,
+      "lookY": 0.481,
+      "state": "nodding",
+      "expression": "proud",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 13.95,
+      "x": 0.2202,
+      "y": 0.6273,
+      "lookX": 0.084,
+      "lookY": 0.481,
+      "state": "nodding",
+      "expression": "proud",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    }
+  ],
+  "prompts": [
+    {
+      "start": 0.0,
+      "end": 4.3,
+      "callout": "Plot the line",
+      "say": "Start by graphing our given line y = \u22123x \u2212 3.",
+      "subtitle": "Plot y = \u22123x \u2212 3 on the coordinate grid.",
+      "mode": "callout",
+      "accent": "blue",
+      "side": "auto"
+    },
+    {
+      "start": 4.3,
+      "end": 9.0167,
+      "callout": "Right 1, down 3",
+      "say": "Step +1 right along x, then drop 3 units down.",
+      "subtitle": "Every +1 step right drops the line 3 units down.",
+      "mode": "callout",
+      "accent": "amber",
+      "side": "auto"
+    },
+    {
+      "start": 9.0167,
+      "end": 13.95,
+      "callout": "m = \u22123",
+      "say": "Rise \u22123 over run +1 gives slope m = \u22123!",
+      "subtitle": "That steep downhill triangle is slope m = \u22123.",
+      "mode": "callout",
+      "accent": "blue",
+      "side": "auto"
+    }
+  ],
+  "words": [
+    {
+      "text": "First",
+      "start": 0.1667,
+      "end": 0.5357
+    },
+    {
+      "text": "plot",
+      "start": 0.7024,
+      "end": 0.9643
+    },
+    {
+      "text": "the",
+      "start": 0.9762,
+      "end": 1.0595
+    },
+    {
+      "text": "given",
+      "start": 1.0714,
+      "end": 1.3333
+    },
+    {
+      "text": "line",
+      "start": 1.3453,
+      "end": 1.6786
+    },
+    {
+      "text": "y",
+      "start": 1.8214,
+      "end": 2.0238
+    },
+    {
+      "text": "equals",
+      "start": 2.0357,
+      "end": 2.3928
+    },
+    {
+      "text": "negative",
+      "start": 2.4047,
+      "end": 2.881
+    },
+    {
+      "text": "three",
+      "start": 2.8929,
+      "end": 3.2619
+    },
+    {
+      "text": "x",
+      "start": 3.3453,
+      "end": 3.619
+    },
+    {
+      "text": "minus",
+      "start": 3.631,
+      "end": 3.9762
+    },
+    {
+      "text": "three",
+      "start": 3.9881,
+      "end": 4.2976
+    },
+    {
+      "text": "Notice",
+      "start": 4.6905,
+      "end": 4.9642
+    },
+    {
+      "text": "how",
+      "start": 4.9762,
+      "end": 5.1786
+    },
+    {
+      "text": "every",
+      "start": 5.3095,
+      "end": 5.5952
+    },
+    {
+      "text": "step",
+      "start": 5.6071,
+      "end": 5.9167
+    },
+    {
+      "text": "of",
+      "start": 5.9762,
+      "end": 6.0952
+    },
+    {
+      "text": "one",
+      "start": 6.1071,
+      "end": 6.3333
+    },
+    {
+      "text": "unit",
+      "start": 6.3453,
+      "end": 6.6905
+    },
+    {
+      "text": "right",
+      "start": 6.7976,
+      "end": 7.0119
+    },
+    {
+      "text": "drops",
+      "start": 7.0238,
+      "end": 7.3809
+    },
+    {
+      "text": "the",
+      "start": 7.3929,
+      "end": 7.5
+    },
+    {
+      "text": "line",
+      "start": 7.5119,
+      "end": 7.9048
+    },
+    {
+      "text": "three",
+      "start": 8.0714,
+      "end": 8.3214
+    },
+    {
+      "text": "units",
+      "start": 8.3333,
+      "end": 8.6667
+    },
+    {
+      "text": "down",
+      "start": 8.6786,
+      "end": 9.0
+    },
+    {
+      "text": "That",
+      "start": 9.4047,
+      "end": 9.5
+    },
+    {
+      "text": "steep",
+      "start": 9.5119,
+      "end": 9.7976
+    },
+    {
+      "text": "downhill",
+      "start": 9.8095,
+      "end": 10.1905
+    },
+    {
+      "text": "triangle",
+      "start": 10.2024,
+      "end": 10.7143
+    },
+    {
+      "text": "gives",
+      "start": 10.7262,
+      "end": 10.9643
+    },
+    {
+      "text": "us",
+      "start": 10.9762,
+      "end": 11.0833
+    },
+    {
+      "text": "slope",
+      "start": 11.0953,
+      "end": 11.4524
+    },
+    {
+      "text": "m",
+      "start": 11.7381,
+      "end": 12.0
+    },
+    {
+      "text": "equals",
+      "start": 12.25,
+      "end": 12.5476
+    },
+    {
+      "text": "negative",
+      "start": 12.5595,
+      "end": 12.9524
+    },
+    {
+      "text": "three",
+      "start": 12.9643,
+      "end": 13.3095
+    }
+  ],
+  "qa": {
+    "maxStaticGapSec": 0.619,
+    "overlapNudges": 1,
+    "cueCount": 4,
+    "keyframeCount": 4,
+    "promptCount": 3,
+    "wordCount": 37
+  }
+}

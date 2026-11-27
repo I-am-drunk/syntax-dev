@@ -1,0 +1,351 @@
+{
+  "version": 2,
+  "voice": "en-US-AndrewNeural",
+  "fps": 60,
+  "duration": 16.4167,
+  "aspectRatio": 1.7778,
+  "keyframes": [
+    {
+      "t": 0.0,
+      "x": 0.1414,
+      "y": 0.3063,
+      "lookX": 0.999,
+      "lookY": 0.035,
+      "state": "speaking",
+      "expression": "attentive",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 5.5,
+      "x": 0.848,
+      "y": 0.4562,
+      "lookX": -0.918,
+      "lookY": 0.165,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 8.5167,
+      "x": 0.1484,
+      "y": 0.7438,
+      "lookX": 0.984,
+      "lookY": 0.035,
+      "state": "nodding",
+      "expression": "happy",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 11.85,
+      "x": 0.1484,
+      "y": 0.7438,
+      "lookX": 0.984,
+      "lookY": 0.035,
+      "state": "celebrate",
+      "expression": "proud",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 16.4167,
+      "x": 0.1484,
+      "y": 0.7438,
+      "lookX": 0.984,
+      "lookY": 0.035,
+      "state": "celebrate",
+      "expression": "proud",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    }
+  ],
+  "prompts": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "callout": "Plug in P(6, 1)",
+      "say": "Drop x = 6, y = 1, and m\u22a5 = 1/3 into y = mx + b.",
+      "subtitle": "Substitute P(6, 1) and m\u22a5 = 1/3 into y = mx + b.",
+      "mode": "callout",
+      "accent": "amber",
+      "side": "auto"
+    },
+    {
+      "start": 5.5,
+      "end": 8.5167,
+      "callout": "(1/3)(6) = 2",
+      "say": "A third of 6 is just 2 \u2014 super clean!",
+      "subtitle": "Multiply (1/3)(6) to get 2.",
+      "mode": "callout",
+      "accent": "teal",
+      "side": "auto"
+    },
+    {
+      "start": 8.5167,
+      "end": 11.85,
+      "callout": "b = \u22121",
+      "say": "1 minus 2 gives b = \u22121!",
+      "subtitle": "Subtract 2 from 1 to get b = \u22121.",
+      "mode": "callout",
+      "accent": "blue",
+      "side": "auto"
+    },
+    {
+      "start": 11.85,
+      "end": 16.4167,
+      "callout": "y = 1/3 x \u2212 1!",
+      "say": "Done! Our perpendicular line is y = 1/3 x \u2212 1!",
+      "subtitle": "Final line: y = 1/3 x \u2212 1.",
+      "mode": "callout",
+      "accent": "green",
+      "side": "auto"
+    }
+  ],
+  "words": [
+    {
+      "text": "Now",
+      "start": 0.0953,
+      "end": 0.2619
+    },
+    {
+      "text": "plug",
+      "start": 0.2738,
+      "end": 0.5476
+    },
+    {
+      "text": "our",
+      "start": 0.5595,
+      "end": 0.6905
+    },
+    {
+      "text": "slope",
+      "start": 0.7024,
+      "end": 1.0714
+    },
+    {
+      "text": "one",
+      "start": 1.131,
+      "end": 1.4286
+    },
+    {
+      "text": "third",
+      "start": 1.4405,
+      "end": 1.8571
+    },
+    {
+      "text": "and",
+      "start": 1.9405,
+      "end": 2.0357
+    },
+    {
+      "text": "point",
+      "start": 2.0476,
+      "end": 2.3214
+    },
+    {
+      "text": "six",
+      "start": 2.3333,
+      "end": 2.8095
+    },
+    {
+      "text": "one",
+      "start": 3.0953,
+      "end": 3.2738
+    },
+    {
+      "text": "into",
+      "start": 3.2857,
+      "end": 3.4524
+    },
+    {
+      "text": "y",
+      "start": 3.4643,
+      "end": 3.7262
+    },
+    {
+      "text": "equals",
+      "start": 3.7381,
+      "end": 4.25
+    },
+    {
+      "text": "m",
+      "start": 4.4167,
+      "end": 4.5714
+    },
+    {
+      "text": "x",
+      "start": 4.6547,
+      "end": 4.8571
+    },
+    {
+      "text": "plus",
+      "start": 4.869,
+      "end": 5.1786
+    },
+    {
+      "text": "b",
+      "start": 5.1905,
+      "end": 5.4881
+    },
+    {
+      "text": "One",
+      "start": 5.8929,
+      "end": 6.0715
+    },
+    {
+      "text": "third",
+      "start": 6.0833,
+      "end": 6.3333
+    },
+    {
+      "text": "of",
+      "start": 6.3453,
+      "end": 6.4167
+    },
+    {
+      "text": "six",
+      "start": 6.4286,
+      "end": 6.869
+    },
+    {
+      "text": "simplifies",
+      "start": 6.9881,
+      "end": 7.6547
+    },
+    {
+      "text": "cleanly",
+      "start": 7.6667,
+      "end": 8.0952
+    },
+    {
+      "text": "to",
+      "start": 8.1071,
+      "end": 8.1905
+    },
+    {
+      "text": "two",
+      "start": 8.2024,
+      "end": 8.5
+    },
+    {
+      "text": "Subtract",
+      "start": 8.9047,
+      "end": 9.3928
+    },
+    {
+      "text": "two",
+      "start": 9.4047,
+      "end": 9.6428
+    },
+    {
+      "text": "from",
+      "start": 9.6547,
+      "end": 9.8571
+    },
+    {
+      "text": "one",
+      "start": 9.869,
+      "end": 10.0476
+    },
+    {
+      "text": "to",
+      "start": 10.0595,
+      "end": 10.1667
+    },
+    {
+      "text": "get",
+      "start": 10.1786,
+      "end": 10.3452
+    },
+    {
+      "text": "b",
+      "start": 10.3571,
+      "end": 10.5833
+    },
+    {
+      "text": "equals",
+      "start": 10.6429,
+      "end": 11.0238
+    },
+    {
+      "text": "negative",
+      "start": 11.0357,
+      "end": 11.5476
+    },
+    {
+      "text": "one",
+      "start": 11.5595,
+      "end": 11.8452
+    },
+    {
+      "text": "giving",
+      "start": 12.1429,
+      "end": 12.381
+    },
+    {
+      "text": "our",
+      "start": 12.3929,
+      "end": 12.4881
+    },
+    {
+      "text": "final",
+      "start": 12.5,
+      "end": 12.881
+    },
+    {
+      "text": "line",
+      "start": 12.8929,
+      "end": 13.1905
+    },
+    {
+      "text": "y",
+      "start": 13.5833,
+      "end": 13.7381
+    },
+    {
+      "text": "equals",
+      "start": 13.75,
+      "end": 14.1429
+    },
+    {
+      "text": "one",
+      "start": 14.1547,
+      "end": 14.4643
+    },
+    {
+      "text": "third",
+      "start": 14.4762,
+      "end": 14.8333
+    },
+    {
+      "text": "x",
+      "start": 14.9524,
+      "end": 15.1547
+    },
+    {
+      "text": "minus",
+      "start": 15.1667,
+      "end": 15.4881
+    },
+    {
+      "text": "one",
+      "start": 15.5,
+      "end": 15.7738
+    }
+  ],
+  "qa": {
+    "maxStaticGapSec": 0.625,
+    "overlapNudges": 0,
+    "cueCount": 4,
+    "keyframeCount": 5,
+    "promptCount": 4,
+    "wordCount": 46
+  }
+}

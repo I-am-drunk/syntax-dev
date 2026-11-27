@@ -1,0 +1,1167 @@
+{
+  "version": 2,
+  "voice": "en-US-AndrewNeural",
+  "fps": 60,
+  "duration": 15.1,
+  "aspectRatio": 1.7778,
+  "keyframes": [
+    {
+      "t": 0.0,
+      "x": 0.3096,
+      "y": 0.6961,
+      "lookX": 0.214,
+      "lookY": -0.225,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.05,
+      "x": 0.3096,
+      "y": 0.6961,
+      "lookX": 0.214,
+      "lookY": -0.225,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.1,
+      "x": 0.3096,
+      "y": 0.6961,
+      "lookX": 0.214,
+      "lookY": -0.225,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.1667,
+      "x": 0.3097,
+      "y": 0.6961,
+      "lookX": 0.214,
+      "lookY": -0.225,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.2167,
+      "x": 0.3097,
+      "y": 0.696,
+      "lookX": 0.213,
+      "lookY": -0.225,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.2833,
+      "x": 0.3099,
+      "y": 0.696,
+      "lookX": 0.213,
+      "lookY": -0.224,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.35,
+      "x": 0.3101,
+      "y": 0.6958,
+      "lookX": 0.212,
+      "lookY": -0.224,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.4,
+      "x": 0.3104,
+      "y": 0.6957,
+      "lookX": 0.212,
+      "lookY": -0.224,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.4667,
+      "x": 0.3108,
+      "y": 0.6954,
+      "lookX": 0.21,
+      "lookY": -0.223,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.5167,
+      "x": 0.3113,
+      "y": 0.6951,
+      "lookX": 0.209,
+      "lookY": -0.222,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.5833,
+      "x": 0.312,
+      "y": 0.6947,
+      "lookX": 0.207,
+      "lookY": -0.221,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.65,
+      "x": 0.3129,
+      "y": 0.6941,
+      "lookX": 0.205,
+      "lookY": -0.219,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.7167,
+      "x": 0.314,
+      "y": 0.6934,
+      "lookX": 0.202,
+      "lookY": -0.217,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.7667,
+      "x": 0.315,
+      "y": 0.6927,
+      "lookX": 0.199,
+      "lookY": -0.215,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.8333,
+      "x": 0.3165,
+      "y": 0.6917,
+      "lookX": 0.195,
+      "lookY": -0.212,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.9,
+      "x": 0.3182,
+      "y": 0.6905,
+      "lookX": 0.19,
+      "lookY": -0.209,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 0.9667,
+      "x": 0.3203,
+      "y": 0.689,
+      "lookX": 0.184,
+      "lookY": -0.205,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.0333,
+      "x": 0.3226,
+      "y": 0.6872,
+      "lookX": 0.177,
+      "lookY": -0.2,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.1,
+      "x": 0.3252,
+      "y": 0.6851,
+      "lookX": 0.17,
+      "lookY": -0.194,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.1667,
+      "x": 0.3281,
+      "y": 0.6826,
+      "lookX": 0.162,
+      "lookY": -0.187,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.2333,
+      "x": 0.3314,
+      "y": 0.6797,
+      "lookX": 0.153,
+      "lookY": -0.179,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.2833,
+      "x": 0.334,
+      "y": 0.6772,
+      "lookX": 0.146,
+      "lookY": -0.172,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.35,
+      "x": 0.3378,
+      "y": 0.6733,
+      "lookX": 0.135,
+      "lookY": -0.161,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.4167,
+      "x": 0.3419,
+      "y": 0.6689,
+      "lookX": 0.123,
+      "lookY": -0.148,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.4833,
+      "x": 0.3464,
+      "y": 0.6637,
+      "lookX": 0.111,
+      "lookY": -0.134,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.5333,
+      "x": 0.3499,
+      "y": 0.6593,
+      "lookX": 0.101,
+      "lookY": -0.122,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.6,
+      "x": 0.3548,
+      "y": 0.6526,
+      "lookX": 0.087,
+      "lookY": -0.103,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.6667,
+      "x": 0.36,
+      "y": 0.6449,
+      "lookX": 0.073,
+      "lookY": -0.082,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.7333,
+      "x": 0.3653,
+      "y": 0.6362,
+      "lookX": 0.058,
+      "lookY": -0.057,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.7833,
+      "x": 0.3695,
+      "y": 0.6288,
+      "lookX": 0.046,
+      "lookY": -0.036,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.85,
+      "x": 0.3751,
+      "y": 0.6179,
+      "lookX": 0.031,
+      "lookY": -0.006,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.9167,
+      "x": 0.3807,
+      "y": 0.6055,
+      "lookX": 0.015,
+      "lookY": 0.029,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 1.9833,
+      "x": 0.3862,
+      "y": 0.5916,
+      "lookX": -0.001,
+      "lookY": 0.068,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.0333,
+      "x": 0.3902,
+      "y": 0.5801,
+      "lookX": -0.012,
+      "lookY": 0.1,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.1,
+      "x": 0.3953,
+      "y": 0.5632,
+      "lookX": -0.026,
+      "lookY": 0.147,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.1667,
+      "x": 0.3997,
+      "y": 0.5459,
+      "lookX": -0.038,
+      "lookY": 0.196,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.2333,
+      "x": 0.4032,
+      "y": 0.5293,
+      "lookX": -0.048,
+      "lookY": 0.242,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.2833,
+      "x": 0.4052,
+      "y": 0.5172,
+      "lookX": -0.054,
+      "lookY": 0.276,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.35,
+      "x": 0.4073,
+      "y": 0.502,
+      "lookX": -0.06,
+      "lookY": 0.319,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.4167,
+      "x": 0.4088,
+      "y": 0.4876,
+      "lookX": -0.064,
+      "lookY": 0.359,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.4833,
+      "x": 0.4098,
+      "y": 0.4741,
+      "lookX": -0.067,
+      "lookY": 0.397,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.5333,
+      "x": 0.4103,
+      "y": 0.4646,
+      "lookX": -0.068,
+      "lookY": 0.423,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.6,
+      "x": 0.4106,
+      "y": 0.4528,
+      "lookX": -0.069,
+      "lookY": 0.456,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.6667,
+      "x": 0.4106,
+      "y": 0.4419,
+      "lookX": -0.069,
+      "lookY": 0.487,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.7333,
+      "x": 0.4103,
+      "y": 0.432,
+      "lookX": -0.068,
+      "lookY": 0.515,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.7833,
+      "x": 0.4101,
+      "y": 0.4251,
+      "lookX": -0.067,
+      "lookY": 0.534,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.85,
+      "x": 0.4096,
+      "y": 0.4167,
+      "lookX": -0.066,
+      "lookY": 0.558,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.9167,
+      "x": 0.409,
+      "y": 0.4091,
+      "lookX": -0.065,
+      "lookY": 0.579,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 2.9833,
+      "x": 0.4084,
+      "y": 0.4023,
+      "lookX": -0.063,
+      "lookY": 0.598,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.0333,
+      "x": 0.4079,
+      "y": 0.3977,
+      "lookX": -0.062,
+      "lookY": 0.611,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.1,
+      "x": 0.4073,
+      "y": 0.3921,
+      "lookX": -0.06,
+      "lookY": 0.626,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.1667,
+      "x": 0.4067,
+      "y": 0.3872,
+      "lookX": -0.058,
+      "lookY": 0.64,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.2333,
+      "x": 0.4061,
+      "y": 0.3829,
+      "lookX": -0.056,
+      "lookY": 0.652,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.2833,
+      "x": 0.4057,
+      "y": 0.3801,
+      "lookX": -0.055,
+      "lookY": 0.66,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.35,
+      "x": 0.4052,
+      "y": 0.3768,
+      "lookX": -0.054,
+      "lookY": 0.669,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.4167,
+      "x": 0.4047,
+      "y": 0.374,
+      "lookX": -0.053,
+      "lookY": 0.677,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.4833,
+      "x": 0.4044,
+      "y": 0.3716,
+      "lookX": -0.051,
+      "lookY": 0.684,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.5333,
+      "x": 0.4041,
+      "y": 0.3701,
+      "lookX": -0.051,
+      "lookY": 0.688,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.6,
+      "x": 0.4038,
+      "y": 0.3685,
+      "lookX": -0.05,
+      "lookY": 0.693,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.6667,
+      "x": 0.4036,
+      "y": 0.3671,
+      "lookX": -0.049,
+      "lookY": 0.696,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.7333,
+      "x": 0.4034,
+      "y": 0.3661,
+      "lookX": -0.049,
+      "lookY": 0.699,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.7833,
+      "x": 0.4033,
+      "y": 0.3655,
+      "lookX": -0.048,
+      "lookY": 0.701,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.85,
+      "x": 0.4032,
+      "y": 0.3649,
+      "lookX": -0.048,
+      "lookY": 0.703,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.9167,
+      "x": 0.4031,
+      "y": 0.3645,
+      "lookX": -0.048,
+      "lookY": 0.704,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 3.9833,
+      "x": 0.403,
+      "y": 0.3643,
+      "lookX": -0.048,
+      "lookY": 0.704,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 4.05,
+      "x": 0.403,
+      "y": 0.3641,
+      "lookX": -0.048,
+      "lookY": 0.705,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 4.1167,
+      "x": 0.403,
+      "y": 0.3641,
+      "lookX": -0.048,
+      "lookY": 0.705,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 4.1833,
+      "x": 0.403,
+      "y": 0.3641,
+      "lookX": -0.048,
+      "lookY": 0.705,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 4.2,
+      "x": 0.403,
+      "y": 0.3641,
+      "lookX": -0.048,
+      "lookY": 0.705,
+      "state": "guiding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 4.2,
+      "x": 0.128,
+      "y": 0.86,
+      "lookX": 0.722,
+      "lookY": -0.684,
+      "state": "guiding",
+      "expression": "happy",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 5.9667,
+      "x": 0.7063,
+      "y": 0.86,
+      "lookX": -0.35,
+      "lookY": -0.738,
+      "state": "nodding",
+      "expression": "curious",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 11.5,
+      "x": 0.5054,
+      "y": 0.2104,
+      "lookX": 0.426,
+      "lookY": -0.027,
+      "state": "nodding",
+      "expression": "proud",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    },
+    {
+      "t": 15.1,
+      "x": 0.5054,
+      "y": 0.2104,
+      "lookX": 0.426,
+      "lookY": -0.027,
+      "state": "nodding",
+      "expression": "proud",
+      "shape": "circle",
+      "scale": 1.0,
+      "speaking": true
+    }
+  ],
+  "prompts": [
+    {
+      "start": 0.0,
+      "end": 4.2,
+      "callout": "Rotating 90°",
+      "say": "Watch the green angle sweep all the way to 90°.",
+      "subtitle": "Rotate the direction a full 90°.",
+      "mode": "callout",
+      "accent": "teal",
+      "side": "auto"
+    },
+    {
+      "start": 4.2,
+      "end": 5.9667,
+      "callout": "90° right angle",
+      "say": "Exact 90° corner between the two lines!",
+      "subtitle": "The two lines now meet at a crisp 90° right angle.",
+      "mode": "callout",
+      "accent": "green",
+      "side": "auto"
+    },
+    {
+      "start": 5.9667,
+      "end": 11.5,
+      "callout": "Right 3, up 1",
+      "say": "Now every 3 steps right climbs gently 1 unit up.",
+      "subtitle": "Steep −3/1 flips into a gentle climb of +1/3.",
+      "mode": "callout",
+      "accent": "amber",
+      "side": "auto"
+    },
+    {
+      "start": 11.5,
+      "end": 15.1,
+      "callout": "m⊥ = +1/3",
+      "say": "Perpendicular slope locked: m⊥ = +1/3!",
+      "subtitle": "The perpendicular slope is positive one third.",
+      "mode": "callout",
+      "accent": "green",
+      "side": "auto"
+    }
+  ],
+  "words": [
+    {
+      "text": "To",
+      "start": 0.0953,
+      "end": 0.1667
+    },
+    {
+      "text": "build",
+      "start": 0.1786,
+      "end": 0.4167
+    },
+    {
+      "text": "a",
+      "start": 0.4286,
+      "end": 0.4762
+    },
+    {
+      "text": "perpendicular",
+      "start": 0.4881,
+      "end": 1.1785
+    },
+    {
+      "text": "line",
+      "start": 1.1905,
+      "end": 1.5119
+    },
+    {
+      "text": "rotate",
+      "start": 1.8095,
+      "end": 2.1905
+    },
+    {
+      "text": "the",
+      "start": 2.2024,
+      "end": 2.2738
+    },
+    {
+      "text": "direction",
+      "start": 2.2857,
+      "end": 2.8095
+    },
+    {
+      "text": "a",
+      "start": 2.9047,
+      "end": 2.9405
+    },
+    {
+      "text": "full",
+      "start": 2.9524,
+      "end": 3.3333
+    },
+    {
+      "text": "ninety",
+      "start": 3.3453,
+      "end": 3.7143
+    },
+    {
+      "text": "degrees",
+      "start": 3.7262,
+      "end": 4.1905
+    },
+    {
+      "text": "to",
+      "start": 4.2024,
+      "end": 4.3095
+    },
+    {
+      "text": "lock",
+      "start": 4.3214,
+      "end": 4.7143
+    },
+    {
+      "text": "in",
+      "start": 4.7857,
+      "end": 4.869
+    },
+    {
+      "text": "a",
+      "start": 4.881,
+      "end": 4.9405
+    },
+    {
+      "text": "crisp",
+      "start": 4.9524,
+      "end": 5.3928
+    },
+    {
+      "text": "right",
+      "start": 5.4047,
+      "end": 5.619
+    },
+    {
+      "text": "angle",
+      "start": 5.631,
+      "end": 5.9643
+    },
+    {
+      "text": "A",
+      "start": 6.3571,
+      "end": 6.4047
+    },
+    {
+      "text": "steep",
+      "start": 6.4167,
+      "end": 6.7619
+    },
+    {
+      "text": "drop",
+      "start": 6.7738,
+      "end": 7.0714
+    },
+    {
+      "text": "of",
+      "start": 7.0833,
+      "end": 7.1905
+    },
+    {
+      "text": "three",
+      "start": 7.2024,
+      "end": 7.5238
+    },
+    {
+      "text": "over",
+      "start": 7.5357,
+      "end": 7.8095
+    },
+    {
+      "text": "one",
+      "start": 7.8214,
+      "end": 8.1071
+    },
+    {
+      "text": "turns",
+      "start": 8.119,
+      "end": 8.4762
+    },
+    {
+      "text": "into",
+      "start": 8.4881,
+      "end": 8.8095
+    },
+    {
+      "text": "a",
+      "start": 8.8214,
+      "end": 8.9167
+    },
+    {
+      "text": "gentle",
+      "start": 8.9286,
+      "end": 9.3452
+    },
+    {
+      "text": "climb",
+      "start": 9.3571,
+      "end": 9.7262
+    },
+    {
+      "text": "of",
+      "start": 9.7381,
+      "end": 9.8571
+    },
+    {
+      "text": "one",
+      "start": 9.869,
+      "end": 10.0476
+    },
+    {
+      "text": "up",
+      "start": 10.0595,
+      "end": 10.1905
+    },
+    {
+      "text": "for",
+      "start": 10.2024,
+      "end": 10.4286
+    },
+    {
+      "text": "every",
+      "start": 10.5714,
+      "end": 10.8333
+    },
+    {
+      "text": "three",
+      "start": 10.8453,
+      "end": 11.1786
+    },
+    {
+      "text": "right",
+      "start": 11.1905,
+      "end": 11.4881
+    },
+    {
+      "text": "so",
+      "start": 11.8453,
+      "end": 11.9524
+    },
+    {
+      "text": "the",
+      "start": 11.9643,
+      "end": 12.0476
+    },
+    {
+      "text": "perpendicular",
+      "start": 12.0595,
+      "end": 12.6667
+    },
+    {
+      "text": "slope",
+      "start": 12.6786,
+      "end": 13.0119
+    },
+    {
+      "text": "is",
+      "start": 13.2024,
+      "end": 13.2857
+    },
+    {
+      "text": "positive",
+      "start": 13.2976,
+      "end": 13.8333
+    },
+    {
+      "text": "one",
+      "start": 13.8453,
+      "end": 14.0476
+    },
+    {
+      "text": "third",
+      "start": 14.0595,
+      "end": 14.4524
+    }
+  ],
+  "qa": {
+    "maxStaticGapSec": 0.621,
+    "overlapNudges": 2,
+    "cueCount": 4,
+    "keyframeCount": 74,
+    "promptCount": 5,
+    "wordCount": 46
+  }
+}
