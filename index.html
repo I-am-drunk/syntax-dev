@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#ffffff" />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <title>Syntax</title>
+    <style>
+      html[data-theme='dark'] {
+        background: #141414;
+        color: #ffffff;
+        color-scheme: dark;
+      }
+      html[data-theme='light'] {
+        background: #ffffff;
+        color: #000000;
+        color-scheme: light;
+      }
+    </style>
+    <script>
+      ;(function () {
+        try {
+          var saved =
+            localStorage.getItem('syntax.theme.v1') || localStorage.getItem('mpm2d-brilliant-theme-v1')
+          var theme =
+            saved === 'dark' || saved === 'light'
+              ? saved
+              : window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches
+                ? 'dark'
+                : 'light'
+          document.documentElement.dataset.theme = theme
+          document.documentElement.style.colorScheme = theme
+          var meta = document.querySelector('meta[name="theme-color"]')
+          if (meta) meta.setAttribute('content', theme === 'dark' ? '#141414' : '#ffffff')
+        } catch (e) {}
+      })()
+    </script>
+    <script type="module" crossorigin src="/syntax-dev/assets/index-CvopWb5s.js"></script>
+    <link rel="modulepreload" crossorigin href="/syntax-dev/assets/vendor-motion-BscVO1jg.js">
+    <link rel="modulepreload" crossorigin href="/syntax-dev/assets/vendor-clerk-DSeoB1OX.js">
+    <link rel="modulepreload" crossorigin href="/syntax-dev/assets/vendor-core-D9Tl42UT.js">
+    <link rel="stylesheet" crossorigin href="/syntax-dev/assets/index-DDdcw7YQ.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
