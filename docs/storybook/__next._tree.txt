@@ -1,0 +1,4 @@
+:HL["/syntax-dev/docs/_next/static/chunks/1h1ka9-lzmimm.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":{"n":"slug","t":"oc","k":"storybook","s":[]},"h":96,"c":"$Q2"}]]
+0:{"b":"EHNwAArfSxP8GItJHASTf","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
